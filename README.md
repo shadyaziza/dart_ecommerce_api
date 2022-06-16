@@ -1,9 +1,9 @@
-### _Ecommerce API_
+## _Ecommerce API_
 
 > Practicing dart for the backend
 
-Roadmap
+### _Roadmap_
 
-:white*check_mark \_Postgres Driver*
+:white_check_mark Postgres Driver
 
-:white*large_square \_Firebase Authorization Middleware*
+:white_large_square Firebase Authorization Middleware
