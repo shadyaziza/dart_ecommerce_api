@@ -4,6 +4,6 @@
 
 ### _Roadmap_
 
-:white_check_mark Postgres Driver
+:white_check_mark: Postgres Driver
 
-:white_large_square Firebase Authorization Middleware
+:white_large_square: Firebase Authorization Middleware
