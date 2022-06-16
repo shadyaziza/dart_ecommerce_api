@@ -1,11 +1,9 @@
-# dart_ecommerce_api
+### _Ecommerce API_
 
-[![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
-[![License: MIT][license_badge]][license_link]
+> Practicing dart for the backend
 
-An example application built with dart_frog
+Roadmap
 
-[license_badge]: https://img.shields.io/badge/license-MIT-blue.svg
-[license_link]: https://opensource.org/licenses/MIT
-[very_good_analysis_badge]: https://img.shields.io/badge/style-very_good_analysis-B22C89.svg
-[very_good_analysis_link]: https://pub.dev/packages/very_good_analysis
+:white*check_mark \_Postgres Driver*
+
+:white*large_square \_Firebase Authorization Middleware*
